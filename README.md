@@ -5,6 +5,7 @@ Olá 👋
 Sou um desenvolvedor Android com ampla experiência na criação de aplicativos nativos para dispositivos móveis. Atualmente, estou expandindo minhas habilidades e migrando para o desenvolvimento backend, com foco em Java e Spring Boot.
 
 🛠 Habilidades
+
 Android: Desenvolvimento de aplicativos nativos para Android.
 
 Kotlin: Linguagem principal para desenvolvimento Android moderno.
