@@ -24,4 +24,5 @@ Acessibilidade: Adaptação de layouts para tornar aplicativos acessíveis a tod
 
 
 🌱 Em Aprendizado
+
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento backend com Java e Spring Boot.
